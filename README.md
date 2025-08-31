@@ -1,4 +1,4 @@
-# 2-Tableau-Data-Visualization-Project-E-Commerce-Marketing-Performance
+# 2-Tableau-Data-Visualization-Project-E-Commerce-Marketing
 
 ## 📌 Project Overview
 This project demonstrates **interactive dashboards, storytelling, and actionable insights using Tableau**. The main aim of this project is to demonstrate an interactive dashboard showcasing E-Commerce Marketing Performance and generate meaningful insights leading to solving Business Problems.
